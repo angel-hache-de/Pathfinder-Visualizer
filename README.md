@@ -6,7 +6,7 @@ Visualizer of BFS algorithm
 React
 
 ## Live demo
-[messenger-app](https://pathfinder-visualizer-angel.herokuapp.com/)
+[pathfinder](https://pathfinder-visualizer-angel.herokuapp.com/)
 
 ## Screenshots
 ![View 1](https://raw.githubusercontent.com/angel-hache-de/Pathfinder-Visualizer/main/screenshots/c1.png "View 1")
