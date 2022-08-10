@@ -1,0 +1,41 @@
+.grid {
+  margin: 0 auto;
+  width: 1250px;
+}
+
+.white-text {
+  color: white !important;
+}
+
+.actions {
+  margin: 0 auto;
+  padding: 20px 0;
+  display: flex;
+  flex-direction: column;
+  width: 1250px;
+}
+
+.simbology {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-top: 25px;
+  width: 1250px;
+  justify-content: space-around;
+}
+
+.node-description {
+  display: flex;
+  align-items: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+  width: 1250px;
+}
+
+button {
+  /* height: 70px; */
+  text-transform: capitalize !important;
+  max-height: 50px !important;
+}
